@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668012139283",
+    "project_id": "medication-2",
+    "storage_bucket": "medication-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668012139283:android:fbd4318b047bec001180e6",
+        "android_client_info": {
+          "package_name": "com.example.medicationapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668012139283-v42s261sir2s8p1u70qd1iin90cu27lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOvdLhZ77IH-rooQ6Xetp66vI6okUBS2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668012139283-v42s261sir2s8p1u70qd1iin90cu27lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

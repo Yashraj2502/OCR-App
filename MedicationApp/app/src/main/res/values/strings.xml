@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Medication App</string>
+    <string name="homePage">Home</string>
+    <string name="prescriptionPage">Prescriptions</string>
+    <string name="profilePage">Profile</string>
+    <string name="logoutBtn">LogOut</string>
+    <string name="scanStart">Scan The Prescription</string>
+    <string name="capture">Take Photo</string>
+
+    <string name="welcomeTitle">WELCOME</string>
+    <string name="goToLogin">Already Have An Account? Login Here</string>
+    <string name="goToRegister">Don\'t Have An Account? Register Here</string>
+    <string name="passwordForgot">Forgot Password?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
