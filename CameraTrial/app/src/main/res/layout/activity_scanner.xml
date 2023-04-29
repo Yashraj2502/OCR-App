@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ScannerActivity"
+    android:background="@color/black_shade_1">
+
+    <ImageView
+        android:id="@+id/captureImage"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/scanner" />
+
+    <TextView
+        android:id="@+id/detectedText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+        android:layout_below="@id/captureImage"
+        android:textColor="@color/yellow"
+        android:text="Your Result Will Appear Here"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:padding="4dp" />
+
+    <Button
+        android:id="@+id/BtnSnap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_below="@id/detectedText"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_back"
+        android:text="Snap"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/yellow" />
+
+    <Button
+        android:id="@+id/BtnDetect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_below="@id/BtnSnap"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_back"
+        android:text="Detect"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/yellow" />
+
+</RelativeLayout>

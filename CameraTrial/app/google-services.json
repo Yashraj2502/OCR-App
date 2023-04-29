@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921670645523",
+    "project_id": "ocr-app-59335",
+    "storage_bucket": "ocr-app-59335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921670645523:android:d22541cbdbf9147221cce6",
+        "android_client_info": {
+          "package_name": "com.example.cameratrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921670645523-is00pc06ku93482t3vrp80v1pe1fi8g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnioKL8yMAGpSkX3zirnCA5_knNQ1fOok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921670645523-is00pc06ku93482t3vrp80v1pe1fi8g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
