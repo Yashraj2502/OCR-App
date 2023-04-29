@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489130759346",
+    "project_id": "camera-trial-2nd",
+    "storage_bucket": "camera-trial-2nd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489130759346:android:1a97074a64d2eb9faaa5ab",
+        "android_client_info": {
+          "package_name": "com.example.cameratrial2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489130759346-0v1eapad4hmuserfcoecm30s1lvs9bv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSTeakeQZENy_ylpOh56LwL5XNIiMhmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489130759346-0v1eapad4hmuserfcoecm30s1lvs9bv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
