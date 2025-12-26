@@ -40,6 +40,8 @@ This application is for **educational and research purposes only**. It should no
 This is an academic project, but suggestions and feedback are welcome!
 
 ## Author
-- GitHub: @Yashraj2502
-- GitHub: @TheHarshal07
-- GitHub: @Maurya22
+- [@Yashraj2502](https://github.com/Yashraj2502)
+- [@TheHarshal07](https://github.com/TheHarshal07)
+- [@Maurya22](https://github.com/Maurya22)
+
+---
